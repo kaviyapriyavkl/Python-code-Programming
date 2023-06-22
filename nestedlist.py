@@ -20,4 +20,3 @@ if __name__ == '__main__':
         if i[1] == second_min:
 
             print(i[0])
-        

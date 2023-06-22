@@ -16,3 +16,4 @@ for i in range(N):
             l.reverse()     
         if s[0]=='print':
             print(l)
+        
